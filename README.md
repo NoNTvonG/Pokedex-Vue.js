@@ -1,6 +1,6 @@
-# 2_project_pokedex
+# Pokedex v1
 
-## Project setup
+<!-- ## Project setup
 ```
 npm install
 ```
@@ -16,4 +16,4 @@ npm run build
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+See [Configuration Reference](https://cli.vuejs.org/config/). -->
